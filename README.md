@@ -1,6 +1,9 @@
 # 🐇 Bunny
 
-<video src='demo.mp4' width=180/>
+<video src='assets/demo.mp4' width=180>
+</video>
+
+
 
 I recently came across https://news.ycombinator.com/item?id=40346995 this HN post showing off a Raspberry Pi running both llama.cpp and whisper.cpp with a few python scripts in the middle.
 
