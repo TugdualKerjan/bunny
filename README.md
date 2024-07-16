@@ -1,4 +1,4 @@
-# 🐇 Bunny
+# 🐇 Bunny, the better worse version of Rabbit R1
 
 https://github.com/user-attachments/assets/e6b2628c-8d9d-4dc6-a3c9-ba707303ffb7
 
