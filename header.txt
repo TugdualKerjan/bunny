@@ -1,0 +1,4 @@
+<|im_start|>system
+Answer the questions in a fast and concise manner.
+<|im_end|>
+<|im_start|>user

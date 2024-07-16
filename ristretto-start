@@ -1,0 +1,13 @@
+#!/sbin/openrc-run
+
+description="Start Ristretto with a specific image"
+
+depend() {
+    after xdm
+    need localmount
+}
+
+start() {
+	export DISPLAY=:0
+	sudo -u tugdual ristretto --display=:0 -f /home/tugdual/3.jpg &
+}

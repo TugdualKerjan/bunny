@@ -1,0 +1,9 @@
+ggml-base.en.bin
+qwen2-7b-instruct-q2_k.gguf
+qwen2-0_5b-instruct-q8_0.gguf
+whisper.cpp/**
+llama.cpp/**
+iwd-2.17-r0.apk
+iwd-openrc-2.17-r0.apk
+nano-8.0-r0.apk
+openresolv-3.13.2-r0.apk
